@@ -1,6 +1,6 @@
 #ptcrypto.club markret clock
 
-/** first app testin gfh
+/** first app ....testing
 
 
-/** im learning to code 
+/** im learning to code

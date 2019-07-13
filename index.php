@@ -1,8 +1,11 @@
 <?php
 
+echo "
 <form name="Tick">
 <input type="text" size="12" name="Clock">
 </form>
+"
+    
 <script type="text/javascript">
 function show(){
     var hours="<?php echo $myhour; ?>"
